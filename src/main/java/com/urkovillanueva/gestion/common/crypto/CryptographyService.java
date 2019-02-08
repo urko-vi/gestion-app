@@ -1,4 +1,4 @@
-package com.urkovillanueva.gestion.model.config.crypto;
+package com.urkovillanueva.gestion.common.crypto;
 
 import java.security.KeyPair;
 import java.security.NoSuchAlgorithmException;

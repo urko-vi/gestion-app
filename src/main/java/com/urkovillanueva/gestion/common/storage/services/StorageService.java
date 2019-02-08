@@ -1,4 +1,4 @@
-package com.urkovillanueva.gestion.model.config.storage;
+package com.urkovillanueva.gestion.common.storage.services;
 
 public interface StorageService {
 

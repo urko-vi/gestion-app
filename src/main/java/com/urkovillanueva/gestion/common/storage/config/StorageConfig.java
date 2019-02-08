@@ -1,5 +1,7 @@
-package com.urkovillanueva.gestion.model.config.storage;
+package com.urkovillanueva.gestion.common.storage.config;
 
+import com.urkovillanueva.gestion.common.storage.services.StorageService;
+import com.urkovillanueva.gestion.common.storage.services.StorageServiceOnPremise;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
