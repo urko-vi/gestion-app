@@ -17,8 +17,6 @@ public abstract class PersonaDto {
     @NotNull
     @NotEmpty
     private String nombre;
-    private List<DireccionDto> direcciones;
-    private List<MailDto> emails;
-    private List<TelefonoDto> telefonos;
+
 
 }
